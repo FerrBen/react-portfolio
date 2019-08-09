@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { Grid, Cell } from "react-mdl";
+
 class Landing extends Component {
   render() {
     return (
@@ -44,7 +45,6 @@ class Landing extends Component {
                 >
                   <i className="fa fa-xing-square" aria-hidden="true" />
                 </a>
-                
               </div>
             </div>
           </Cell>
